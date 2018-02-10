@@ -8,7 +8,7 @@
 	$sarr['data']['01']['list'][1]['question'] = '大部分';
 	$sarr['data']['01']['list'][2]['question'] = '一半';
 	$sarr['data']['01']['list'][3]['question'] = '一些';
-	$sarr['data']['01']['list'][4]['question'] = '一点也不';
+	$sarr['data']['01']['list'][4]['question'] = '一点也不1111的范德萨范德萨';
 	$sarr['data']['01']['list'][0]['score'] = '2';
 	$sarr['data']['01']['list'][1]['score'] = '4';
 	$sarr['data']['01']['list'][2]['score'] = '6';
